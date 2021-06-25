@@ -1,0 +1,4 @@
+Modules Names - moduleName
+Folder Name  - data_folder
+Class Name - ClassName
+variable Name - var_name
