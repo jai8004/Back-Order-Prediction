@@ -1,0 +1,14 @@
+2021-06-26/05:16:44		KeyError:Key value error incorrect key passed
+2021-06-26/05:18:06		KeyError:Key value error incorrect key passed
+2021-06-26/05:18:39		KeyError:Key value error incorrect key passed
+2021-06-26/05:19:38		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 2
+
+2021-06-26/05:20:05		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 2
+
+2021-06-26/05:21:18		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 2
+
+2021-06-26/05:26:08		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 2
+
+2021-06-26/05:26:47		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 
+2021-06-26/05:28:36		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 24
+

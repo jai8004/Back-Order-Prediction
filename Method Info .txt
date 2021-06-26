@@ -1,0 +1,5 @@
+Framework 
+
+RawDataValidation 
+1. Validates raw data using the schema 
+2. valuesFromSchema : Fetch data from schema 
