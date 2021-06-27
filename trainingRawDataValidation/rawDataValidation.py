@@ -37,7 +37,7 @@ class RawDataValidation:
             column_names = dic['ColName']
             NumberOfColumns = dic['NumberOfColumns']
             file = open("Training_Logs/valuesfromSchemaValidationLog.txt", 'a+')
-            message = "LengthOfDateStampInFile:: %s" % LengthOfDateStampInFile + "\t" + "LengthOfTimeStampInFile:: %s" % LengthOfTimeStampInFile + "\t " + "NumberofColumns:: %s" % NumberOfColumns + "\n"
+            message = "LengthOfDateStampInFile:: %s" % LengthOfDateStampInFile + "\t" + "LengthOfTimeStampInFile:: %s" % LengthOfTimeStampInFile + "\t " + "NumberofColumns:: %s" % NumberOfColumns + "\n" + "Column Names:: %s" % column_names + "\n"
             self.logger.log(file, message)
 
             file.close()
@@ -231,7 +231,7 @@ class RawDataValidation:
             f.close()
             raise e
 
-    def ValidateColumnLength(self,NumberOfColumns):
+    def validateColumnLength(self,NumberOfColumns):
             """
             Description: This function validates the number of columns in the csv files.
                                        It is should be same as given in the schema file.
