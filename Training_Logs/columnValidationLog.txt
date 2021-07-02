@@ -55,3 +55,71 @@
 2021-06-27/21:31:38		Column Length Validation Completed !
 2021-06-27/21:36:57		Columns Lenght Validation Started !
 2021-06-27/21:36:57		Column Length Validation Completed !
+2021-06-28/07:54:10		Columns Lenght Validation Started !
+2021-06-28/07:54:10		Column Length Validation Completed !
+2021-07-02/06:55:45		Columns Lenght Validation Started !
+2021-07-02/06:55:45		Column Length Validation Completed !
+2021-07-02/06:58:37		Columns Lenght Validation Started !
+2021-07-02/06:58:37		Column Length Validation Completed !
+2021-07-02/07:01:05		Columns Lenght Validation Started !
+2021-07-02/07:01:05		Column Length Validation Completed !
+2021-07-02/07:04:32		Columns Lenght Validation Started !
+2021-07-02/07:04:32		Invalid Column Lenght for the file !! File moved to Bad_Raw folder ::backOrder_10052029_210320.csv
+2021-07-02/07:04:32		Column Length Validation Completed !
+2021-07-02/07:10:14		Columns Lenght Validation Started !
+2021-07-02/07:10:14		Invalid Column Lenght for the file !! File moved to Bad_Raw folder ::backOrder_10052029_210320.csv
+2021-07-02/07:10:14		Column Length Validation Completed !
+2021-07-02/07:16:21		Columns Lenght Validation Started !
+2021-07-02/07:16:21		Invalid Column Lenght for the file !! File moved to Bad_Raw folder ::backOrder_10052029_210320.csv
+2021-07-02/07:16:21		Column Length Validation Completed !
+2021-07-02/07:18:12		Columns Lenght Validation Started !
+2021-07-02/07:18:12		Invalid Column Lenght for the file !! File moved to Bad_Raw folder ::backOrder_10052029_210320.csv
+2021-07-02/07:18:12		Column Length Validation Completed !
+2021-07-02/07:19:35		Columns Lenght Validation Started !
+2021-07-02/07:19:35		Invalid Column Lenght for the file !! File moved to Bad_Raw folder ::backOrder_10052029_210320.csv
+2021-07-02/07:19:35		Column Length Validation Completed !
+2021-07-02/07:25:59		Columns Lenght Validation Started !
+2021-07-02/07:26:00		Invalid Column Lenght for the file !! File moved to Bad_Raw folder ::backOrder_10052029_210320.csv
+2021-07-02/07:26:00		Column Length Validation Completed !
+2021-07-02/07:30:22		Columns Lenght Validation Started !
+2021-07-02/07:30:22		Invalid Column Lenght for the file !! File moved to Bad_Raw folder ::backOrder_10052029_210320.csv
+2021-07-02/07:30:22		Column Length Validation Completed !
+2021-07-02/07:30:45		Columns Lenght Validation Started !
+2021-07-02/07:30:45		Invalid Column Lenght for the file !! File moved to Bad_Raw folder ::backOrder_10052029_210320.csv
+2021-07-02/07:30:45		Column Length Validation Completed !
+2021-07-02/07:32:52		Columns Lenght Validation Started !
+2021-07-02/07:32:52		Invalid Column Lenght for the file !! File moved to Bad_Raw folder ::backOrder_10052029_210320.csv
+2021-07-02/07:32:52		Column Length Validation Completed !
+2021-07-02/07:35:02		Columns Lenght Validation Started !
+2021-07-02/07:35:02		Invalid Column Lenght for the file !! File moved to Bad_Raw folder ::backOrder_10052029_210320.csv
+2021-07-02/07:35:02		Column Length Validation Completed !
+2021-07-02/07:37:06		Columns Lenght Validation Started !
+2021-07-02/07:37:06		Invalid Column Lenght for the file !! File moved to Bad_Raw folder ::backOrder_10052029_210320.csv
+2021-07-02/07:37:06		Column Length Validation Completed !
+2021-07-02/07:40:29		Columns Lenght Validation Started !
+2021-07-02/07:40:29		Invalid Column Lenght for the file !! File moved to Bad_Raw folder ::backOrder_10052029_210320.csv
+2021-07-02/07:40:29		Column Length Validation Completed !
+2021-07-02/07:41:21		Columns Lenght Validation Started !
+2021-07-02/07:41:21		Invalid Column Lenght for the file !! File moved to Bad_Raw folder ::backOrder_10052029_210320.csv
+2021-07-02/07:41:21		Column Length Validation Completed !
+2021-07-02/07:43:17		Columns Lenght Validation Started !
+2021-07-02/07:43:17		Invalid Column Lenght for the file !! File moved to Bad_Raw folder ::backOrder_10052029_210320.csv
+2021-07-02/07:43:17		Column Length Validation Completed !
+2021-07-02/07:44:34		Columns Lenght Validation Started !
+2021-07-02/07:44:34		Invalid Column Lenght for the file !! File moved to Bad_Raw folder ::backOrder_10052029_210320.csv
+2021-07-02/07:44:34		Column Length Validation Completed !
+2021-07-02/08:34:52		Columns Lenght Validation Started !
+2021-07-02/08:34:52		Invalid Column Lenght for the file !! File moved to Bad_Raw folder ::backOrder_10052029_210320.csv
+2021-07-02/08:34:52		Column Length Validation Completed !
+2021-07-02/08:36:49		Columns Lenght Validation Started !
+2021-07-02/08:36:49		Invalid Column Lenght for the file !! File moved to Bad_Raw folder ::backOrder_10052029_210320.csv
+2021-07-02/08:36:49		Column Length Validation Completed !
+2021-07-02/08:38:43		Columns Lenght Validation Started !
+2021-07-02/08:38:43		Invalid Column Lenght for the file !! File moved to Bad_Raw folder ::backOrder_10052029_210320.csv
+2021-07-02/08:38:43		Column Length Validation Completed !
+2021-07-02/08:40:11		Columns Lenght Validation Started !
+2021-07-02/08:40:11		Invalid Column Lenght for the file !! File moved to Bad_Raw folder ::backOrder_10052029_210320.csv
+2021-07-02/08:40:11		Column Length Validation Completed !
+2021-07-02/08:59:46		Columns Lenght Validation Started !
+2021-07-02/08:59:46		Invalid Column Lenght for the file !! File moved to Bad_Raw folder ::backOrder_10052029_210320.csv
+2021-07-02/08:59:46		Column Length Validation Completed !

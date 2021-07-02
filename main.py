@@ -23,9 +23,9 @@ def trainRouteClient():
     try:
         if request.json['folderPath'] is not None:
             path = request.json['folderPath']
-            #path = "Training_Batch_Files"
+            # path = "Training_Batch_Files"
 
-        #intialsing object of train validation insertion and calling function
+            # intialsing object of train validation insertion and calling function
             train_val_obj = TrainValidation(path)
             train_val_obj.trainingDataValidation()
 
